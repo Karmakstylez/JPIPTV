@@ -43,8 +43,9 @@ The purpose of this project is to aggregate publicly available streaming informa
 
 If the main playlist is unavailable, or for more options, you can try these useful alternatives from other repositories:
 
-* `https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u`
-* `https://raw.githubusercontent.com/take2560/takelab/refs/heads/main/jp.m3u`
+[`IPTV-JP`](https://github.com/luongz/iptv-jp/)
+
+[`Takelab`](https://github.com/take2560/takelab/)
 
 ## 貢献 (Contributing)
 
