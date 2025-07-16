@@ -37,6 +37,15 @@ The purpose of this project is to aggregate publicly available streaming informa
 3.  Paste the M3U playlist URL from above.
 4.  If needed, configure the EPG URL in the same way.
 
+## 代替リソース (Alternative Resources)
+
+メインのプレイリストが利用できない場合や、その他の選択肢として、以下の他のリポジトリで公開されている便利な代替リンクを試すこともできます。
+
+If the main playlist is unavailable, or for more options, you can try these useful alternatives from other repositories:
+
+* `https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u`
+* `https://raw.githubusercontent.com/take2560/takelab/refs/heads/main/jp.m3u`
+
 ## 貢献 (Contributing)
 
 このプロジェクトへの貢献を歓迎します。リンク切れの報告、新しいチャンネルの追加、情報の修正などがありましたら、お気軽にIssueを立てるか、プルリクエストを送信してください。
